@@ -1,0 +1,100 @@
+{
+  "taxonomy": [
+    {
+      "Kingdom": {
+        "Arabic": "الحيوانات",
+        "English": "Animalia"
+      },
+      "Phylum": {
+        "Arabic": "الحبليات",
+        "English": "Chordata"
+      },
+      "Class": {
+        "Arabic": "الثدييات",
+        "English": "Mammalia"
+      },
+      "Order": {
+        "Arabic": "اللواحم",
+        "English": "Carnivora"
+      },
+      "Family": {
+        "Arabic": "القططيات",
+        "English": "Felidae"
+      },
+      "Genus": {
+        "Arabic": "النمر",
+        "English": "Panthera"
+      },
+      "Species": {
+        "Arabic": "النمر العربي",
+        "English": "Arabian Leopard",
+        "LocalNames": {
+          "Arabic": [
+            "النمر العربي",
+            "النمر"
+          ],
+          "English": [
+            "Arabian Leopard",
+            "Leopard"
+          ],
+          "Regional": [
+            {
+              "Name": "نمر",
+              "Region": "السعودية",
+              "Language": "عربية"
+            },
+            {
+              "Name": "لوبارد",
+              "Region": "اليمن",
+              "Language": "عربية"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "النمر العربي هو نوع من النمور يعيش في شبه الجزيرة العربية",
+          "English": "The Arabian leopard is a leopard subspecies native to the Arabian Peninsula"
+        },
+        "Habitat": {
+          "Arabic": "الجبال والوديان الصخرية",
+          "English": "Rocky mountains and valleys"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الحياة",
+            "URL": "https",
+            "Type": "//eol.org/pages/328607"
+          },
+          {
+            "Title": "صور النمر",
+            "URL": "https",
+            "Type": "//example.com/leopard-images"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https",
+              "Caption": {
+                "Arabic": "//example.com/leopard1.jpg",
+                "English": "نمر عربي بالغ"
+              },
+              "Credit": "Adult Arabian Leopard",
+              "License": "Wildlife"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https",
+              "Caption": {
+                "Arabic": "//example.com/leopard-video.mp4",
+                "English": "نمر يصطاد"
+              },
+              "Credit": "Leopard hunting",
+              "Duration": "Wildlife"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
